@@ -69,7 +69,7 @@ const alkassChannels = [
 
 // ================= قناة ثمانية =================
 const thmanyahChannels = [
-    {id: 'thamanya_1', name: 'thamanya sport 1', url: 'http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/646090.ts', logo: 'https://i.ibb.co/fdnXrW7B/IMG-4055be1a-9779-47d1-a0e6-7e0ae8f6df1c.jpg'},
+    {id: 'thamanya_1', name: 'thamanya sport 1', url: 'http://n7s.top/live/hm8685685/8768469/586483.ts', logo: 'https://i.ibb.co/fdnXrW7B/IMG-4055be1a-9779-47d1-a0e6-7e0ae8f6df1c.jpg'},
     {id: 'thamanya_2', name: 'thamanya sport 2', url: 'http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/646091.ts', logo: 'https://i.ibb.co/fdnXrW7B/IMG-4055be1a-9779-47d1-a0e6-7e0ae8f6df1c.jpg'},
     {id: 'thamanya_3', name: 'thamanya sport 3', url: 'http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/231971.ts', logo: 'https://i.ibb.co/fdnXrW7B/IMG-4055be1a-9779-47d1-a0e6-7e0ae8f6df1c.jpg'}
 ];
